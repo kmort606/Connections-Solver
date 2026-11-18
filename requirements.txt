@@ -9,3 +9,4 @@ tqdm
 pytest
 huggingface_hub
 jupyter
+matplotlib

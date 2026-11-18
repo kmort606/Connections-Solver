@@ -1,0 +1,3202 @@
+[
+ {
+  "id": 510,
+  "date": "2024-10-02",
+  "words": [
+   "JOKER",
+   "DICE",
+   "CHANCE",
+   "CASINO",
+   "OCTOPUS",
+   "SLOT MACHINE",
+   "CUBE",
+   "GAMBLE",
+   "SLICE",
+   "BET",
+   "SHIVA",
+   "JULIENNE",
+   "HEAT",
+   "VENUS DE MILO",
+   "RISK",
+   "TAXI DRIVER"
+  ],
+  "groups": [
+   {
+    "words": [
+     "BET",
+     "CHANCE",
+     "GAMBLE",
+     "RISK"
+    ],
+    "name": "PUT ON THE LINE",
+    "level": 0
+   },
+   {
+    "words": [
+     "CUBE",
+     "DICE",
+     "JULIENNE",
+     "SLICE"
+    ],
+    "name": "USE A KITCHEN KNIFE",
+    "level": 1
+   },
+   {
+    "words": [
+     "CASINO",
+     "HEAT",
+     "JOKER",
+     "TAXI DRIVER"
+    ],
+    "name": "ROBERT DE NIRO FILMS",
+    "level": 2
+   },
+   {
+    "words": [
+     "OCTOPUS",
+     "SHIVA",
+     "SLOT MACHINE",
+     "VENUS DE MILO"
+    ],
+    "name": "DISTINCTIVE NUMBER OF ARMS (OR LACK THEREOF)",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 482,
+  "date": "2024-10-03",
+  "words": [
+   "SKI",
+   "PANT",
+   "PRUNE",
+   "JUICE",
+   "PUNCH",
+   "POT",
+   "MILK",
+   "SMITE",
+   "SOCK",
+   "BLOUSE",
+   "EARBUD",
+   "WATER",
+   "STICK",
+   "SODA",
+   "FERTILIZE",
+   "BOOKEND"
+  ],
+  "groups": [
+   {
+    "words": [
+     "JUICE",
+     "MILK",
+     "PUNCH",
+     "SODA"
+    ],
+    "name": "BEVERAGES",
+    "level": 0
+   },
+   {
+    "words": [
+     "FERTILIZE",
+     "POT",
+     "PRUNE",
+     "WATER"
+    ],
+    "name": "CARE FOR A PLANT",
+    "level": 1
+   },
+   {
+    "words": [
+     "BOOKEND",
+     "EARBUD",
+     "SKI",
+     "SOCK"
+    ],
+    "name": "ITEM SOLD IN PAIRS",
+    "level": 2
+   },
+   {
+    "words": [
+     "BLOUSE",
+     "PANT",
+     "SMITE",
+     "STICK"
+    ],
+    "name": "BUGS PLUS STARTING LETTER",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 509,
+  "date": "2024-10-04",
+  "words": [
+   "DROP",
+   "DASH",
+   "DAISY",
+   "DREAM",
+   "DING",
+   "DOC",
+   "DINNER",
+   "DAB",
+   "DALE",
+   "DUE",
+   "DIMPLE",
+   "DELIVERY",
+   "DENT",
+   "DOLLOP",
+   "DORY",
+   "DIVOT"
+  ],
+  "groups": [
+   {
+    "words": [
+     "DENT",
+     "DIMPLE",
+     "DING",
+     "DIVOT"
+    ],
+    "name": "CONCAVITY",
+    "level": 0
+   },
+   {
+    "words": [
+     "DAB",
+     "DASH",
+     "DOLLOP",
+     "DROP"
+    ],
+    "name": "SMALL AMOUNT",
+    "level": 1
+   },
+   {
+    "words": [
+     "DAISY",
+     "DALE",
+     "DOC",
+     "DORY"
+    ],
+    "name": "DISNEY CHARACTERS",
+    "level": 2
+   },
+   {
+    "words": [
+     "DELIVERY",
+     "DINNER",
+     "DREAM",
+     "DUE"
+    ],
+    "name": "___ DATE",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 516,
+  "date": "2024-10-05",
+  "words": [
+   "JACUZZI",
+   "BIKINI",
+   "HANGER",
+   "X-RAY",
+   "Q-TIP",
+   "TOOTHBRUSH",
+   "G-STRING",
+   "CHAPSTICK",
+   "T-BONE",
+   "XEROX",
+   "HIPSTER",
+   "SKIRT",
+   "DRILL",
+   "FILET",
+   "SINK",
+   "THONG"
+  ],
+  "groups": [
+   {
+    "words": [
+     "FILET",
+     "HANGER",
+     "SKIRT",
+     "T-BONE"
+    ],
+    "name": "STEAK CUTS",
+    "level": 0
+   },
+   {
+    "words": [
+     "BIKINI",
+     "G-STRING",
+     "HIPSTER",
+     "THONG"
+    ],
+    "name": "KINDS OF UNDERWEAR",
+    "level": 1
+   },
+   {
+    "words": [
+     "DRILL",
+     "SINK",
+     "TOOTHBRUSH",
+     "X-RAY"
+    ],
+    "name": "INVOLVED IN A DENTIST VISIT",
+    "level": 2
+   },
+   {
+    "words": [
+     "CHAPSTICK",
+     "JACUZZI",
+     "Q-TIP",
+     "XEROX"
+    ],
+    "name": "BRANDS THAT HAVE BECOME GENERIC TERMS",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 513,
+  "date": "2024-10-06",
+  "words": [
+   "SHED",
+   "CREAM",
+   "RETREAT",
+   "ABOUT",
+   "COTTAGE",
+   "LOGIN",
+   "HOME",
+   "SCRATCH",
+   "KNEAD",
+   "GOAT",
+   "LEAVE",
+   "STRING",
+   "FLEE",
+   "PURR",
+   "CONTACT",
+   "WITHDRAW"
+  ],
+  "groups": [
+   {
+    "words": [
+     "FLEE",
+     "LEAVE",
+     "RETREAT",
+     "WITHDRAW"
+    ],
+    "name": "TURN TAIL",
+    "level": 0
+   },
+   {
+    "words": [
+     "KNEAD",
+     "PURR",
+     "SCRATCH",
+     "SHED"
+    ],
+    "name": "THINGS CATS DO",
+    "level": 1
+   },
+   {
+    "words": [
+     "ABOUT",
+     "CONTACT",
+     "HOME",
+     "LOGIN"
+    ],
+    "name": "PAGES ON A WEBSITE",
+    "level": 2
+   },
+   {
+    "words": [
+     "COTTAGE",
+     "CREAM",
+     "GOAT",
+     "STRING"
+    ],
+    "name": "___ CHEESE",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 512,
+  "date": "2024-10-07",
+  "words": [
+   "KING KONG",
+   "WHOOP",
+   "BEEP BEEP",
+   "YAHOO",
+   "DING-DONG",
+   "HAR-HAR",
+   "KOKO",
+   "HOOT",
+   "SKRRT",
+   "BUBBLES",
+   "DODO",
+   "PURR",
+   "YUK",
+   "YO-YO",
+   "VROOM",
+   "GEORGE"
+  ],
+  "groups": [
+   {
+    "words": [
+     "DING-DONG",
+     "DODO",
+     "YAHOO",
+     "YO-YO"
+    ],
+    "name": "KNUCKLEHEAD",
+    "level": 0
+   },
+   {
+    "words": [
+     "BEEP BEEP",
+     "PURR",
+     "SKRRT",
+     "VROOM"
+    ],
+    "name": "CAR ONOMATOPOEIA",
+    "level": 1
+   },
+   {
+    "words": [
+     "HAR-HAR",
+     "HOOT",
+     "WHOOP",
+     "YUK"
+    ],
+    "name": "SOUNDS OF LAUGHTER",
+    "level": 2
+   },
+   {
+    "words": [
+     "BUBBLES",
+     "GEORGE",
+     "KING KONG",
+     "KOKO"
+    ],
+    "name": "FAMOUS PRIMATES",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 514,
+  "date": "2024-10-08",
+  "words": [
+   "CANE",
+   "BLOCK",
+   "ACCIDENTAL",
+   "SPIDER",
+   "BAR",
+   "STAFF",
+   "APPLE",
+   "NOTE",
+   "BAT",
+   "BAN",
+   "PUMPKIN",
+   "CORN",
+   "FORBID",
+   "WITCH",
+   "REST",
+   "DENY"
+  ],
+  "groups": [
+   {
+    "words": [
+     "BAT",
+     "PUMPKIN",
+     "SPIDER",
+     "WITCH"
+    ],
+    "name": "HALLOWEEN SYMBOLS",
+    "level": 0
+   },
+   {
+    "words": [
+     "BAN",
+     "BLOCK",
+     "DENY",
+     "FORBID"
+    ],
+    "name": "PROHIBIT",
+    "level": 1
+   },
+   {
+    "words": [
+     "ACCIDENTAL",
+     "NOTE",
+     "REST",
+     "STAFF"
+    ],
+    "name": "FOUND ON SHEET MUSIC",
+    "level": 2
+   },
+   {
+    "words": [
+     "APPLE",
+     "BAR",
+     "CANE",
+     "CORN"
+    ],
+    "name": "CANDY ___",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 515,
+  "date": "2024-10-09",
+  "words": [
+   "SPIN",
+   "JACKKNIFE",
+   "BUBBLES",
+   "PROGRESS",
+   "BUTTERCUP",
+   "FIZZ",
+   "BLOSSOM",
+   "PITCHFORK",
+   "MOJO",
+   "MATURE",
+   "FOAM",
+   "BOILERPLATE",
+   "WITHERSPOON",
+   "BILLBOARD",
+   "DEVELOP",
+   "FROTH"
+  ],
+  "groups": [
+   {
+    "words": [
+     "BUBBLES",
+     "FIZZ",
+     "FOAM",
+     "FROTH"
+    ],
+    "name": "EFFERVESCENCE",
+    "level": 0
+   },
+   {
+    "words": [
+     "BLOSSOM",
+     "DEVELOP",
+     "MATURE",
+     "PROGRESS"
+    ],
+    "name": "BURGEON",
+    "level": 1
+   },
+   {
+    "words": [
+     "BILLBOARD",
+     "MOJO",
+     "PITCHFORK",
+     "SPIN"
+    ],
+    "name": "MUSIC PUBLICATIONS",
+    "level": 2
+   },
+   {
+    "words": [
+     "BOILERPLATE",
+     "BUTTERCUP",
+     "JACKKNIFE",
+     "WITHERSPOON"
+    ],
+    "name": "ENDING WITH TABLEWARE",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 511,
+  "date": "2024-10-10",
+  "words": [
+   "HIP",
+   "TEA",
+   "BIG",
+   "BAD",
+   "EYE",
+   "FLY",
+   "SEW",
+   "SAW",
+   "ILL",
+   "FAR",
+   "ELF",
+   "LEG",
+   "HER",
+   "RAD",
+   "ARM",
+   "DOE"
+  ],
+  "groups": [
+   {
+    "words": [
+     "ARM",
+     "EYE",
+     "HIP",
+     "LEG"
+    ],
+    "name": "BODY PARTS",
+    "level": 0
+   },
+   {
+    "words": [
+     "BAD",
+     "FLY",
+     "ILL",
+     "RAD"
+    ],
+    "name": "COOL, IN \u201980S SLANG",
+    "level": 1
+   },
+   {
+    "words": [
+     "BIG",
+     "ELF",
+     "HER",
+     "SAW"
+    ],
+    "name": "MOVIES",
+    "level": 2
+   },
+   {
+    "words": [
+     "DOE",
+     "FAR",
+     "SEW",
+     "TEA"
+    ],
+    "name": "WORDS IN \u201cDO-RE-MI\u201d",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 520,
+  "date": "2024-10-11",
+  "words": [
+   "NERVE",
+   "SPLASH",
+   "EXTRA",
+   "RELISH",
+   "GRAVY",
+   "TREASURE",
+   "SAUCE",
+   "DIP",
+   "DIVE",
+   "BONUS",
+   "VALUE",
+   "BRASS",
+   "FROSTING",
+   "CHEEK",
+   "SWIM",
+   "SAVOR"
+  ],
+  "groups": [
+   {
+    "words": [
+     "RELISH",
+     "SAVOR",
+     "TREASURE",
+     "VALUE"
+    ],
+    "name": "CHERISH",
+    "level": 0
+   },
+   {
+    "words": [
+     "DIP",
+     "DIVE",
+     "SPLASH",
+     "SWIM"
+    ],
+    "name": "QUICK JUMP IN THE POOL",
+    "level": 1
+   },
+   {
+    "words": [
+     "BONUS",
+     "EXTRA",
+     "FROSTING",
+     "GRAVY"
+    ],
+    "name": "ADDITIONAL BENEFIT",
+    "level": 2
+   },
+   {
+    "words": [
+     "BRASS",
+     "CHEEK",
+     "NERVE",
+     "SAUCE"
+    ],
+    "name": "BRASHNESS",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 521,
+  "date": "2024-10-12",
+  "words": [
+   "GOO",
+   "COO",
+   "APP",
+   "WRAP",
+   "SWALLOW",
+   "MOTOR",
+   "HONK",
+   "BEAR",
+   "GOBBLE",
+   "SCARF",
+   "STAND",
+   "SAM",
+   "STOLE",
+   "TAKE",
+   "HOOT",
+   "SHAWL"
+  ],
+  "groups": [
+   {
+    "words": [
+     "SCARF",
+     "SHAWL",
+     "STOLE",
+     "WRAP"
+    ],
+    "name": "DRAPED ACCESSORIES",
+    "level": 0
+   },
+   {
+    "words": [
+     "BEAR",
+     "STAND",
+     "SWALLOW",
+     "TAKE"
+    ],
+    "name": "TOLERATE",
+    "level": 1
+   },
+   {
+    "words": [
+     "COO",
+     "GOBBLE",
+     "HONK",
+     "HOOT"
+    ],
+    "name": "BIRD ONOMATOPOEIA",
+    "level": 2
+   },
+   {
+    "words": [
+     "APP",
+     "GOO",
+     "MOTOR",
+     "SAM"
+    ],
+    "name": "STARTS OF CELL PHONE MAKERS",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 522,
+  "date": "2024-10-13",
+  "words": [
+   "CARGO",
+   "BOULDER",
+   "CLAW",
+   "HAMMER",
+   "ANVIL",
+   "HORN",
+   "CALIFORNIA",
+   "COYOTE",
+   "EGG",
+   "STIRRUP",
+   "DRUM",
+   "TNT",
+   "CAPRI",
+   "HOOF",
+   "HONOR",
+   "NAIL"
+  ],
+  "groups": [
+   {
+    "words": [
+     "CLAW",
+     "HOOF",
+     "HORN",
+     "NAIL"
+    ],
+    "name": "MADE OF KERATIN",
+    "level": 0
+   },
+   {
+    "words": [
+     "ANVIL",
+     "BOULDER",
+     "COYOTE",
+     "TNT"
+    ],
+    "name": "ROAD RUNNER CARTOON STAPLES",
+    "level": 1
+   },
+   {
+    "words": [
+     "CAPRI",
+     "CARGO",
+     "HAMMER",
+     "STIRRUP"
+    ],
+    "name": "KINDS OF PANTS",
+    "level": 2
+   },
+   {
+    "words": [
+     "CALIFORNIA",
+     "DRUM",
+     "EGG",
+     "HONOR"
+    ],
+    "name": "___ ROLL",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 517,
+  "date": "2024-10-14",
+  "words": [
+   "PONY",
+   "ROLL",
+   "COMB",
+   "BOOK",
+   "ROOT",
+   "TREE",
+   "CLAP",
+   "TABLE",
+   "BUN",
+   "SALAD",
+   "DIG",
+   "RUMBLE",
+   "SIFT",
+   "TWIST",
+   "PEAL",
+   "BRAID"
+  ],
+  "groups": [
+   {
+    "words": [
+     "COMB",
+     "DIG",
+     "ROOT",
+     "SIFT"
+    ],
+    "name": "RUMMAGE",
+    "level": 0
+   },
+   {
+    "words": [
+     "CLAP",
+     "PEAL",
+     "ROLL",
+     "RUMBLE"
+    ],
+    "name": "SOUNDS OF THUNDER",
+    "level": 1
+   },
+   {
+    "words": [
+     "BRAID",
+     "BUN",
+     "PONY",
+     "TWIST"
+    ],
+    "name": "WAYS TO WEAR YOUR HAIR UP",
+    "level": 2
+   },
+   {
+    "words": [
+     "BOOK",
+     "SALAD",
+     "TABLE",
+     "TREE"
+    ],
+    "name": "THINGS THAT CAN HAVE LEAVES",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 519,
+  "date": "2024-10-15",
+  "words": [
+   "DRIVE",
+   "PENNYWISE",
+   "SAFETY",
+   "NICKELODEON",
+   "QUARTERBACK",
+   "HISTORY",
+   "DIMENSIONAL",
+   "HOMEY",
+   "DEFENSE",
+   "GUARD",
+   "JOKER",
+   "DISCOVERY",
+   "OXYGEN",
+   "DEMOCRAT",
+   "CENTER",
+   "RONALD"
+  ],
+  "groups": [
+   {
+    "words": [
+     "CENTER",
+     "GUARD",
+     "QUARTERBACK",
+     "SAFETY"
+    ],
+    "name": "FOOTBALL POSITIONS",
+    "level": 0
+   },
+   {
+    "words": [
+     "DISCOVERY",
+     "HISTORY",
+     "NICKELODEON",
+     "OXYGEN"
+    ],
+    "name": "CABLE CHANNELS",
+    "level": 1
+   },
+   {
+    "words": [
+     "HOMEY",
+     "JOKER",
+     "PENNYWISE",
+     "RONALD"
+    ],
+    "name": "FICTIONAL CLOWNS",
+    "level": 2
+   },
+   {
+    "words": [
+     "DEFENSE",
+     "DEMOCRAT",
+     "DIMENSIONAL",
+     "DRIVE"
+    ],
+    "name": "WHAT \u201cD\u201d MIGHT STAND FOR",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 518,
+  "date": "2024-10-16",
+  "words": [
+   "PEACE",
+   "PEBBLE",
+   "LATER",
+   "SCISSORS",
+   "ROUND",
+   "CHEERIO",
+   "BYE",
+   "FLAKE",
+   "NEXT",
+   "BRACKET",
+   "SOON",
+   "SEED",
+   "VICTORY",
+   "PUFF",
+   "TWO",
+   "EVENTUALLY"
+  ],
+  "groups": [
+   {
+    "words": [
+     "EVENTUALLY",
+     "LATER",
+     "NEXT",
+     "SOON"
+    ],
+    "name": "AT SOME FUTURE POINT",
+    "level": 0
+   },
+   {
+    "words": [
+     "BRACKET",
+     "BYE",
+     "ROUND",
+     "SEED"
+    ],
+    "name": "PARTS OF A TOURNAMENT SETUP",
+    "level": 1
+   },
+   {
+    "words": [
+     "CHEERIO",
+     "FLAKE",
+     "PEBBLE",
+     "PUFF"
+    ],
+    "name": "BIT OF BREAKFAST CEREAL",
+    "level": 2
+   },
+   {
+    "words": [
+     "PEACE",
+     "SCISSORS",
+     "TWO",
+     "VICTORY"
+    ],
+    "name": "WHAT THE OUTSTRETCHED INDEX AND MIDDLE FINGERS CAN REPRESENT",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 525,
+  "date": "2024-10-17",
+  "words": [
+   "PARK",
+   "CAR",
+   "HARVARD",
+   "YARD",
+   "ADDRESS",
+   "GREEN",
+   "JAW",
+   "LEMON",
+   "NATURAL",
+   "CRIMINAL",
+   "FIELD",
+   "SWINGER",
+   "HANDLE",
+   "GOODFELLA",
+   "ANSWER",
+   "LAWN"
+  ],
+  "groups": [
+   {
+    "words": [
+     "GREEN",
+     "LAWN",
+     "PARK",
+     "YARD"
+    ],
+    "name": "GRASSY AREA",
+    "level": 0
+   },
+   {
+    "words": [
+     "ADDRESS",
+     "ANSWER",
+     "FIELD",
+     "HANDLE"
+    ],
+    "name": "DEAL WITH",
+    "level": 1
+   },
+   {
+    "words": [
+     "CAR",
+     "GOODFELLA",
+     "JAW",
+     "SWINGER"
+    ],
+    "name": "MOVIES WITH \u201cS\u201d REMOVED",
+    "level": 2
+   },
+   {
+    "words": [
+     "CRIMINAL",
+     "HARVARD",
+     "LEMON",
+     "NATURAL"
+    ],
+    "name": "___ LAW",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 524,
+  "date": "2024-10-18",
+  "words": [
+   "FLOP",
+   "CHARGE",
+   "PLASTIC",
+   "TURN",
+   "TIME",
+   "RIVER",
+   "CHANCE",
+   "CARD",
+   "MISS",
+   "PRIME",
+   "BUST",
+   "SHOT",
+   "RAINFOREST",
+   "CREDIT",
+   "DUD",
+   "KINDLE"
+  ],
+  "groups": [
+   {
+    "words": [
+     "BUST",
+     "DUD",
+     "FLOP",
+     "MISS"
+    ],
+    "name": "CLUNKER",
+    "level": 0
+   },
+   {
+    "words": [
+     "CHANCE",
+     "SHOT",
+     "TIME",
+     "TURN"
+    ],
+    "name": "OPPORTUNITY",
+    "level": 1
+   },
+   {
+    "words": [
+     "CARD",
+     "CHARGE",
+     "CREDIT",
+     "PLASTIC"
+    ],
+    "name": "NON-CASH WAY TO PAY",
+    "level": 2
+   },
+   {
+    "words": [
+     "KINDLE",
+     "PRIME",
+     "RAINFOREST",
+     "RIVER"
+    ],
+    "name": "AMAZON ___",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 527,
+  "date": "2024-10-19",
+  "words": [
+   "PROVOKE",
+   "SOAP",
+   "NETTLE",
+   "CANDLE",
+   "INSULT",
+   "INCENSE",
+   "INSPIRE",
+   "MADDEN",
+   "JELLYFISH",
+   "CIVILIZATION",
+   "PROMPT",
+   "LOTION",
+   "HALO",
+   "GENERATE",
+   "WASP",
+   "METROID"
+  ],
+  "groups": [
+   {
+    "words": [
+     "GENERATE",
+     "INSPIRE",
+     "PROMPT",
+     "PROVOKE"
+    ],
+    "name": "BRING ABOUT",
+    "level": 0
+   },
+   {
+    "words": [
+     "CANDLE",
+     "INCENSE",
+     "LOTION",
+     "SOAP"
+    ],
+    "name": "THINGS THAT ARE OFTEN SCENTED",
+    "level": 1
+   },
+   {
+    "words": [
+     "INSULT",
+     "JELLYFISH",
+     "NETTLE",
+     "WASP"
+    ],
+    "name": "THINGS THAT MIGHT STING",
+    "level": 2
+   },
+   {
+    "words": [
+     "CIVILIZATION",
+     "HALO",
+     "MADDEN",
+     "METROID"
+    ],
+    "name": "VIDEO GAME FRANCHISES",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 528,
+  "date": "2024-10-20",
+  "words": [
+   "PADDLE",
+   "SEW",
+   "ROW",
+   "STORY",
+   "OAR",
+   "FORE",
+   "COLUMN",
+   "RACKET",
+   "NET",
+   "BUTT",
+   "FEATURE",
+   "BALL",
+   "CLATTER",
+   "TABLE",
+   "RUCKUS",
+   "ARTICLE"
+  ],
+  "groups": [
+   {
+    "words": [
+     "ARTICLE",
+     "COLUMN",
+     "FEATURE",
+     "STORY"
+    ],
+    "name": "BIT OF NEWSPAPER WRITING",
+    "level": 0
+   },
+   {
+    "words": [
+     "CLATTER",
+     "RACKET",
+     "ROW",
+     "RUCKUS"
+    ],
+    "name": "NOISY DISTURBANCE",
+    "level": 1
+   },
+   {
+    "words": [
+     "BALL",
+     "NET",
+     "PADDLE",
+     "TABLE"
+    ],
+    "name": "TABLE TENNIS NEEDS",
+    "level": 2
+   },
+   {
+    "words": [
+     "BUTT",
+     "FORE",
+     "OAR",
+     "SEW"
+    ],
+    "name": "HOMOPHONES OF COORDINATING CONJUNCTIONS",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 530,
+  "date": "2024-10-21",
+  "words": [
+   "WHIRL",
+   "DRAW",
+   "NAVY",
+   "LIVER",
+   "CAR",
+   "KIDNEY",
+   "HOOK",
+   "DRIVE",
+   "PINTO",
+   "PULL",
+   "NEUTRAL",
+   "DEAD",
+   "LOW",
+   "MUNG",
+   "GRAB",
+   "REVERSE"
+  ],
+  "groups": [
+   {
+    "words": [
+     "KIDNEY",
+     "MUNG",
+     "NAVY",
+     "PINTO"
+    ],
+    "name": "KINDS OF BEANS",
+    "level": 0
+   },
+   {
+    "words": [
+     "DRAW",
+     "GRAB",
+     "HOOK",
+     "PULL"
+    ],
+    "name": "ATTRACT",
+    "level": 1
+   },
+   {
+    "words": [
+     "DRIVE",
+     "LOW",
+     "NEUTRAL",
+     "REVERSE"
+    ],
+    "name": "AUTOMATIC GEAR SHIFTER POSITIONS",
+    "level": 2
+   },
+   {
+    "words": [
+     "CAR",
+     "DEAD",
+     "LIVER",
+     "WHIRL"
+    ],
+    "name": "___POOL",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 529,
+  "date": "2024-10-22",
+  "words": [
+   "DESIGNER",
+   "ENGINEER",
+   "HATCH",
+   "TAG",
+   "GALILEO",
+   "MARCO POLO",
+   "MASTERMIND",
+   "VIKING",
+   "BINGO",
+   "PIONEER",
+   "LUXURY",
+   "CONCOCT",
+   "HAUTE",
+   "VOYAGER",
+   "UNO",
+   "HIGH-END"
+  ],
+  "groups": [
+   {
+    "words": [
+     "DESIGNER",
+     "HAUTE",
+     "HIGH-END",
+     "LUXURY"
+    ],
+    "name": "BRAND-NAME",
+    "level": 0
+   },
+   {
+    "words": [
+     "CONCOCT",
+     "ENGINEER",
+     "HATCH",
+     "MASTERMIND"
+    ],
+    "name": "DEVISE",
+    "level": 1
+   },
+   {
+    "words": [
+     "GALILEO",
+     "PIONEER",
+     "VIKING",
+     "VOYAGER"
+    ],
+    "name": "NASA SPACECRAFT",
+    "level": 2
+   },
+   {
+    "words": [
+     "BINGO",
+     "MARCO POLO",
+     "TAG",
+     "UNO"
+    ],
+    "name": "GAMES WHERE YOU SAY THE GAME\u2019S NAME",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 505,
+  "date": "2024-10-23",
+  "words": [
+   "JEANS",
+   "JACKET",
+   "RAIN",
+   "HAZE",
+   "GOBLIN",
+   "JAY",
+   "BERET",
+   "CAB",
+   "MOON",
+   "PAGES",
+   "HEART",
+   "THUMB",
+   "PROSE",
+   "SALAD",
+   "WHALE",
+   "JOURNALISM"
+  ],
+  "groups": [
+   {
+    "words": [
+     "CAB",
+     "JACKET",
+     "JOURNALISM",
+     "PAGES"
+    ],
+    "name": "YELLOW ___",
+    "level": 0
+   },
+   {
+    "words": [
+     "BERET",
+     "GOBLIN",
+     "SALAD",
+     "THUMB"
+    ],
+    "name": "GREEN ___",
+    "level": 1
+   },
+   {
+    "words": [
+     "JAY",
+     "JEANS",
+     "MOON",
+     "WHALE"
+    ],
+    "name": "BLUE ___",
+    "level": 2
+   },
+   {
+    "words": [
+     "HAZE",
+     "HEART",
+     "PROSE",
+     "RAIN"
+    ],
+    "name": "PURPLE ___",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 526,
+  "date": "2024-10-24",
+  "words": [
+   "ADIEU",
+   "FORTUNE TELLER",
+   "SLATE",
+   "CRANE",
+   "AUDIO",
+   "TEMPS",
+   "AIRPLANE",
+   "GAMES",
+   "PROGRAM",
+   "NEWS",
+   "FAN",
+   "PAIN",
+   "COOKING",
+   "SCHEDULE",
+   "BELLE",
+   "BILL"
+  ],
+  "groups": [
+   {
+    "words": [
+     "BILL",
+     "PROGRAM",
+     "SCHEDULE",
+     "SLATE"
+    ],
+    "name": "LINEUP",
+    "level": 0
+   },
+   {
+    "words": [
+     "AUDIO",
+     "COOKING",
+     "GAMES",
+     "NEWS"
+    ],
+    "name": "NYT OFFERINGS",
+    "level": 1
+   },
+   {
+    "words": [
+     "AIRPLANE",
+     "CRANE",
+     "FAN",
+     "FORTUNE TELLER"
+    ],
+    "name": "THINGS MADE BY FOLDING PAPER",
+    "level": 2
+   },
+   {
+    "words": [
+     "ADIEU",
+     "BELLE",
+     "PAIN",
+     "TEMPS"
+    ],
+    "name": "FRENCH WORDS",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 531,
+  "date": "2024-10-25",
+  "words": [
+   "FORMAL",
+   "COOKWARE",
+   "QUESTION MARK",
+   "RAVE",
+   "PERIOD",
+   "THUMBS UP",
+   "BALL",
+   "DOT",
+   "BAD REVIEW",
+   "HOP",
+   "EXCLAMATION POINTS",
+   "SATYR",
+   "POINT",
+   "CAMERA MOVEMENT",
+   "HEART",
+   "TITTLE"
+  ],
+  "groups": [
+   {
+    "words": [
+     "DOT",
+     "PERIOD",
+     "POINT",
+     "TITTLE"
+    ],
+    "name": "\u2022",
+    "level": 0
+   },
+   {
+    "words": [
+     "BALL",
+     "FORMAL",
+     "HOP",
+     "RAVE"
+    ],
+    "name": "EVENT WITH DANCING",
+    "level": 1
+   },
+   {
+    "words": [
+     "EXCLAMATION POINTS",
+     "HEART",
+     "QUESTION MARK",
+     "THUMBS UP"
+    ],
+    "name": "IPHONE MESSAGE TAPBACK RESPONSES",
+    "level": 2
+   },
+   {
+    "words": [
+     "BAD REVIEW",
+     "CAMERA MOVEMENT",
+     "COOKWARE",
+     "SATYR"
+    ],
+    "name": "\u201cPAN\u201d",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 535,
+  "date": "2024-10-26",
+  "words": [
+   "SWING",
+   "THROW",
+   "ROCKER",
+   "ROLLER",
+   "RATTLE",
+   "THREAD",
+   "CRADLE",
+   "SPOOL",
+   "CAN",
+   "RUFFLE",
+   "CHAT",
+   "HAMMOCK",
+   "CONVERSATION",
+   "SILO",
+   "CHAIN",
+   "FAZE"
+  ],
+  "groups": [
+   {
+    "words": [
+     "FAZE",
+     "RATTLE",
+     "RUFFLE",
+     "THROW"
+    ],
+    "name": "FLUSTER",
+    "level": 0
+   },
+   {
+    "words": [
+     "CHAIN",
+     "CHAT",
+     "CONVERSATION",
+     "THREAD"
+    ],
+    "name": "SERIES OF MESSAGES",
+    "level": 1
+   },
+   {
+    "words": [
+     "CRADLE",
+     "HAMMOCK",
+     "ROCKER",
+     "SWING"
+    ],
+    "name": "PLACES TO LIE/SIT THAT MOVE",
+    "level": 2
+   },
+   {
+    "words": [
+     "CAN",
+     "ROLLER",
+     "SILO",
+     "SPOOL"
+    ],
+    "name": "CYLINDER-SHAPED THINGS",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 534,
+  "date": "2024-10-27",
+  "words": [
+   "FRESH",
+   "PRINCE",
+   "BEL",
+   "AIR",
+   "QUALITY",
+   "BAR",
+   "CUTE",
+   "MERMAID",
+   "LUX",
+   "WISE",
+   "TRAMP",
+   "MOOD",
+   "FEELING",
+   "SMART",
+   "MOLE",
+   "RASCALS"
+  ],
+  "groups": [
+   {
+    "words": [
+     "CUTE",
+     "FRESH",
+     "SMART",
+     "WISE"
+    ],
+    "name": "SASSY",
+    "level": 0
+   },
+   {
+    "words": [
+     "AIR",
+     "FEELING",
+     "MOOD",
+     "QUALITY"
+    ],
+    "name": "AMBIENCE",
+    "level": 1
+   },
+   {
+    "words": [
+     "BAR",
+     "BEL",
+     "LUX",
+     "MOLE"
+    ],
+    "name": "UNITS",
+    "level": 2
+   },
+   {
+    "words": [
+     "MERMAID",
+     "PRINCE",
+     "RASCALS",
+     "TRAMP"
+    ],
+    "name": "THE LITTLE ___",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 537,
+  "date": "2024-10-28",
+  "words": [
+   "SPELL",
+   "LOVE",
+   "PLEASE",
+   "HOLD",
+   "PRESTO",
+   "MEAN",
+   "THANK YOU",
+   "SHAZAM",
+   "AUDIBLE",
+   "ABRACADABRA",
+   "SIGNIFY",
+   "TIDAL",
+   "SUGGEST",
+   "HAVE",
+   "PANDORA",
+   "CHERISH"
+  ],
+  "groups": [
+   {
+    "words": [
+     "AUDIBLE",
+     "PANDORA",
+     "SHAZAM",
+     "TIDAL"
+    ],
+    "name": "AUDIO APPS",
+    "level": 0
+   },
+   {
+    "words": [
+     "MEAN",
+     "SIGNIFY",
+     "SPELL",
+     "SUGGEST"
+    ],
+    "name": "INDICATE",
+    "level": 1
+   },
+   {
+    "words": [
+     "CHERISH",
+     "HAVE",
+     "HOLD",
+     "LOVE"
+    ],
+    "name": "CHURCH OF ENGLAND WEDDING VOW VERBS",
+    "level": 2
+   },
+   {
+    "words": [
+     "ABRACADABRA",
+     "PLEASE",
+     "PRESTO",
+     "THANK YOU"
+    ],
+    "name": "MAGIC WORDS",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 532,
+  "date": "2024-10-29",
+  "words": [
+   "TIMES",
+   "NEW",
+   "ROMAN",
+   "TOWN",
+   "POCKET",
+   "EAR",
+   "FRIEND",
+   "FELLOW",
+   "ATTENDING",
+   "ORIGINAL",
+   "PERFECT",
+   "RESIDENT",
+   "MINT",
+   "COUNTRYMAN",
+   "INTERN",
+   "UNUSED"
+  ],
+  "groups": [
+   {
+    "words": [
+     "MINT",
+     "NEW",
+     "ORIGINAL",
+     "UNUSED"
+    ],
+    "name": "IN PRISTINE CONDITION",
+    "level": 0
+   },
+   {
+    "words": [
+     "ATTENDING",
+     "FELLOW",
+     "INTERN",
+     "RESIDENT"
+    ],
+    "name": "MEDICAL ROLES",
+    "level": 1
+   },
+   {
+    "words": [
+     "COUNTRYMAN",
+     "EAR",
+     "FRIEND",
+     "ROMAN"
+    ],
+    "name": "SINGULAR NOUN IN A FAMOUS \u201cJULIUS CAESAR\u201d LINE",
+    "level": 2
+   },
+   {
+    "words": [
+     "PERFECT",
+     "POCKET",
+     "TIMES",
+     "TOWN"
+    ],
+    "name": "___ SQUARE",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 536,
+  "date": "2024-10-30",
+  "words": [
+   "IDEA",
+   "BOOM",
+   "PACKING",
+   "DOLLY",
+   "SKATEBOARD",
+   "GAFFER",
+   "WAGON",
+   "BEST BOY",
+   "DUCT",
+   "SPIKE",
+   "ELECTRICAL",
+   "STABLES",
+   "RISE",
+   "ROLLERBLADE",
+   "KRONER",
+   "SURGE"
+  ],
+  "groups": [
+   {
+    "words": [
+     "BOOM",
+     "RISE",
+     "SPIKE",
+     "SURGE"
+    ],
+    "name": "UPSWING",
+    "level": 0
+   },
+   {
+    "words": [
+     "DOLLY",
+     "ROLLERBLADE",
+     "SKATEBOARD",
+     "WAGON"
+    ],
+    "name": "THINGS WITH WHEELS",
+    "level": 1
+   },
+   {
+    "words": [
+     "DUCT",
+     "ELECTRICAL",
+     "GAFFER",
+     "PACKING"
+    ],
+    "name": "KINDS OF TAPE",
+    "level": 2
+   },
+   {
+    "words": [
+     "BEST BOY",
+     "IDEA",
+     "KRONER",
+     "STABLES"
+    ],
+    "name": "RETAIL CHAINS WITH A LETTER CHANGED",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 523,
+  "date": "2024-10-31",
+  "words": [
+   "BAT",
+   "EGG",
+   "LOVE",
+   "WITCH",
+   "PUMPKIN",
+   "SPIDER",
+   "BLINK",
+   "JOB",
+   "DIABLO",
+   "FLUTTER",
+   "TREASURE",
+   "VIPER",
+   "SCAVENGER",
+   "MUSTANG",
+   "WINK",
+   "DARLING"
+  ],
+  "groups": [
+   {
+    "words": [
+     "DARLING",
+     "LOVE",
+     "PUMPKIN",
+     "TREASURE"
+    ],
+    "name": "TERMS OF ENDEARMENT",
+    "level": 0
+   },
+   {
+    "words": [
+     "BAT",
+     "BLINK",
+     "FLUTTER",
+     "WINK"
+    ],
+    "name": "THINGS YOU CAN DO WITH YOUR EYELIDS",
+    "level": 1
+   },
+   {
+    "words": [
+     "DIABLO",
+     "MUSTANG",
+     "SPIDER",
+     "VIPER"
+    ],
+    "name": "SPORTS CARS",
+    "level": 2
+   },
+   {
+    "words": [
+     "EGG",
+     "JOB",
+     "SCAVENGER",
+     "WITCH"
+    ],
+    "name": "___ HUNT",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 533,
+  "date": "2024-11-01",
+  "words": [
+   "DRAG",
+   "DRAFT",
+   "DOODLE",
+   "DOMINO",
+   "BALL",
+   "BUTTERFLY",
+   "CURL",
+   "CRAWL",
+   "PUFF",
+   "INCH",
+   "HALO",
+   "BOTTLE",
+   "TAP",
+   "PLACEBO",
+   "CAN",
+   "CREEP"
+  ],
+  "groups": [
+   {
+    "words": [
+     "CRAWL",
+     "CREEP",
+     "DRAG",
+     "INCH"
+    ],
+    "name": "PROGRESS SLOWLY",
+    "level": 0
+   },
+   {
+    "words": [
+     "BOTTLE",
+     "CAN",
+     "DRAFT",
+     "TAP"
+    ],
+    "name": "WAYS TO ORDER A BEER",
+    "level": 1
+   },
+   {
+    "words": [
+     "BALL",
+     "CURL",
+     "DOODLE",
+     "PUFF"
+    ],
+    "name": "CHEESY CORN SNACK UNIT",
+    "level": 2
+   },
+   {
+    "words": [
+     "BUTTERFLY",
+     "DOMINO",
+     "HALO",
+     "PLACEBO"
+    ],
+    "name": "___ EFFECT",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 542,
+  "date": "2024-11-02",
+  "words": [
+   "BOARD",
+   "DROP",
+   "PLANK",
+   "SINK",
+   "RANGE",
+   "PANEL",
+   "STUD",
+   "BOAT",
+   "CHANDELIER",
+   "COUNTER",
+   "CABINET",
+   "CRUNCH",
+   "COUNCIL",
+   "MOUNTAIN CLIMBER",
+   "FRIDGE",
+   "HOOP"
+  ],
+  "groups": [
+   {
+    "words": [
+     "COUNTER",
+     "FRIDGE",
+     "RANGE",
+     "SINK"
+    ],
+    "name": "SEEN IN A KITCHEN",
+    "level": 0
+   },
+   {
+    "words": [
+     "BOARD",
+     "CABINET",
+     "COUNCIL",
+     "PANEL"
+    ],
+    "name": "GROUP OF ADVISORS",
+    "level": 1
+   },
+   {
+    "words": [
+     "BOAT",
+     "CRUNCH",
+     "MOUNTAIN CLIMBER",
+     "PLANK"
+    ],
+    "name": "CORE EXERCISES",
+    "level": 2
+   },
+   {
+    "words": [
+     "CHANDELIER",
+     "DROP",
+     "HOOP",
+     "STUD"
+    ],
+    "name": "KINDS OF EARRINGS",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 538,
+  "date": "2024-11-03",
+  "words": [
+   "STREET",
+   "SENSE",
+   "MOVING",
+   "MONEY",
+   "TENDER",
+   "FEELING",
+   "HEARING",
+   "LISTENING",
+   "PROCEEDING",
+   "TOUCHING",
+   "CHAIR",
+   "INQUIRY",
+   "SWEET",
+   "HUNCH",
+   "TRIAL",
+   "IMPRESSION"
+  ],
+  "groups": [
+   {
+    "words": [
+     "MOVING",
+     "SWEET",
+     "TENDER",
+     "TOUCHING"
+    ],
+    "name": "HEARTWARMING",
+    "level": 0
+   },
+   {
+    "words": [
+     "FEELING",
+     "HUNCH",
+     "IMPRESSION",
+     "SENSE"
+    ],
+    "name": "SNEAKING SUSPICION",
+    "level": 1
+   },
+   {
+    "words": [
+     "HEARING",
+     "INQUIRY",
+     "PROCEEDING",
+     "TRIAL"
+    ],
+    "name": "LEGAL SESSION",
+    "level": 2
+   },
+   {
+    "words": [
+     "CHAIR",
+     "LISTENING",
+     "MONEY",
+     "STREET"
+    ],
+    "name": "EASY ___",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 539,
+  "date": "2024-11-04",
+  "words": [
+   "SHELL",
+   "VANITY",
+   "OUTFIT",
+   "ID",
+   "WARDROBE",
+   "CANT",
+   "CONSOLE",
+   "EGO",
+   "STOCK",
+   "CHARACTER",
+   "BEING",
+   "CHEST",
+   "SELF",
+   "PROVISION",
+   "WERE",
+   "FURNISH"
+  ],
+  "groups": [
+   {
+    "words": [
+     "FURNISH",
+     "OUTFIT",
+     "PROVISION",
+     "STOCK"
+    ],
+    "name": "EQUIP",
+    "level": 0
+   },
+   {
+    "words": [
+     "BEING",
+     "CHARACTER",
+     "EGO",
+     "SELF"
+    ],
+    "name": "INDIVIDUALITY",
+    "level": 1
+   },
+   {
+    "words": [
+     "CHEST",
+     "CONSOLE",
+     "VANITY",
+     "WARDROBE"
+    ],
+    "name": "FURNITURE",
+    "level": 2
+   },
+   {
+    "words": [
+     "CANT",
+     "ID",
+     "SHELL",
+     "WERE"
+    ],
+    "name": "WORDS WITH APOSTROPHES REMOVED",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 544,
+  "date": "2024-11-05",
+  "words": [
+   "CATERPILLAR",
+   "CLAM",
+   "MUSHROOM",
+   "KINGDOM",
+   "TURTLE",
+   "PEACH",
+   "EGG",
+   "PIPE CLEANER",
+   "PRINCESS",
+   "MARKER",
+   "DONKEY",
+   "CARPET",
+   "NUT",
+   "DRAGON",
+   "FLEECE",
+   "OGRE"
+  ],
+  "groups": [
+   {
+    "words": [
+     "CATERPILLAR",
+     "FLEECE",
+     "PEACH",
+     "PIPE CLEANER"
+    ],
+    "name": "THINGS THAT ARE FUZZY",
+    "level": 0
+   },
+   {
+    "words": [
+     "CLAM",
+     "EGG",
+     "NUT",
+     "TURTLE"
+    ],
+    "name": "THINGS WITH SHELLS",
+    "level": 1
+   },
+   {
+    "words": [
+     "DONKEY",
+     "DRAGON",
+     "OGRE",
+     "PRINCESS"
+    ],
+    "name": "FIGURES IN \u201cSHREK\u201d",
+    "level": 2
+   },
+   {
+    "words": [
+     "CARPET",
+     "KINGDOM",
+     "MARKER",
+     "MUSHROOM"
+    ],
+    "name": "MAGIC ___",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 540,
+  "date": "2024-11-06",
+  "words": [
+   "STOP",
+   "POEM",
+   "DIFFERENT",
+   "MESSAGE",
+   "NEW",
+   "NOVEL",
+   "YARDSTICK",
+   "FURNITURE",
+   "PLAY",
+   "TEXT",
+   "BIPED",
+   "RECORD",
+   "CORRESPOND",
+   "ORIGINAL",
+   "PAUSE",
+   "WRITE"
+  ],
+  "groups": [
+   {
+    "words": [
+     "PAUSE",
+     "PLAY",
+     "RECORD",
+     "STOP"
+    ],
+    "name": "DVR BUTTONS",
+    "level": 0
+   },
+   {
+    "words": [
+     "DIFFERENT",
+     "NEW",
+     "NOVEL",
+     "ORIGINAL"
+    ],
+    "name": "GROUNDBREAKING",
+    "level": 1
+   },
+   {
+    "words": [
+     "CORRESPOND",
+     "MESSAGE",
+     "TEXT",
+     "WRITE"
+    ],
+    "name": "COMMUNICATE THROUGH WRITING",
+    "level": 2
+   },
+   {
+    "words": [
+     "BIPED",
+     "FURNITURE",
+     "POEM",
+     "YARDSTICK"
+    ],
+    "name": "THINGS WITH FEET",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 541,
+  "date": "2024-11-07",
+  "words": [
+   "EGADS",
+   "SCRAMBLE",
+   "ARTIST",
+   "NAME",
+   "SALAD",
+   "YEAR",
+   "YOGA",
+   "CHARACTER",
+   "MEDIUM",
+   "DIAL",
+   "IMAGE",
+   "STEW",
+   "MONTE",
+   "REPUTATION",
+   "HASH",
+   "TITLE"
+  ],
+  "groups": [
+   {
+    "words": [
+     "HASH",
+     "SALAD",
+     "SCRAMBLE",
+     "STEW"
+    ],
+    "name": "FOOD-RELATED JUMBLES",
+    "level": 0
+   },
+   {
+    "words": [
+     "CHARACTER",
+     "IMAGE",
+     "NAME",
+     "REPUTATION"
+    ],
+    "name": "PUBLIC STANDING",
+    "level": 1
+   },
+   {
+    "words": [
+     "ARTIST",
+     "MEDIUM",
+     "TITLE",
+     "YEAR"
+    ],
+    "name": "INFO ON A MUSEUM PLACARD",
+    "level": 2
+   },
+   {
+    "words": [
+     "DIAL",
+     "EGADS",
+     "MONTE",
+     "YOGA"
+    ],
+    "name": "ANAGRAMS OF FAMOUS PAINTERS",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 543,
+  "date": "2024-11-08",
+  "words": [
+   "BLUE",
+   "CHEESE",
+   "SPICY",
+   "MUSTARD",
+   "SWEET",
+   "CAPER",
+   "DILL",
+   "DECK",
+   "EXPLOIT",
+   "SOUR",
+   "ADULT",
+   "ANTIC",
+   "SUGGESTIVE",
+   "STUNT",
+   "KOSHER",
+   "CORD"
+  ],
+  "groups": [
+   {
+    "words": [
+     "ANTIC",
+     "CAPER",
+     "EXPLOIT",
+     "STUNT"
+    ],
+    "name": "ESCAPADE",
+    "level": 0
+   },
+   {
+    "words": [
+     "DILL",
+     "KOSHER",
+     "SOUR",
+     "SWEET"
+    ],
+    "name": "KINDS OF PICKLES",
+    "level": 1
+   },
+   {
+    "words": [
+     "ADULT",
+     "BLUE",
+     "SPICY",
+     "SUGGESTIVE"
+    ],
+    "name": "RISQU\u00c9",
+    "level": 2
+   },
+   {
+    "words": [
+     "CHEESE",
+     "CORD",
+     "DECK",
+     "MUSTARD"
+    ],
+    "name": "CUT THE ___",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 546,
+  "date": "2024-11-09",
+  "words": [
+   "THRONE",
+   "SHRED",
+   "GNARLY",
+   "POWDER",
+   "RADICAL",
+   "BATH",
+   "LICK",
+   "POWER",
+   "TWISTED",
+   "ROOT",
+   "REST",
+   "BENT",
+   "TRACE",
+   "WARPED",
+   "EXPONENT",
+   "OUNCE"
+  ],
+  "groups": [
+   {
+    "words": [
+     "BENT",
+     "GNARLY",
+     "TWISTED",
+     "WARPED"
+    ],
+    "name": "CONTORTED",
+    "level": 0
+   },
+   {
+    "words": [
+     "LICK",
+     "OUNCE",
+     "SHRED",
+     "TRACE"
+    ],
+    "name": "SMALLEST AMOUNT",
+    "level": 1
+   },
+   {
+    "words": [
+     "EXPONENT",
+     "POWER",
+     "RADICAL",
+     "ROOT"
+    ],
+    "name": "ALGEBRA TERMS",
+    "level": 2
+   },
+   {
+    "words": [
+     "BATH",
+     "POWDER",
+     "REST",
+     "THRONE"
+    ],
+    "name": "WORDS BEFORE \u201cROOM\u201d TO MEAN LAVATORY",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 548,
+  "date": "2024-11-10",
+  "words": [
+   "RAVEN",
+   "GOLFER",
+   "PILOT",
+   "PENDULUM",
+   "DRUM",
+   "USHER",
+   "SALOON DOORS",
+   "CASK",
+   "COWBOY",
+   "CYLINDER",
+   "STEER",
+   "JET",
+   "TANK",
+   "RAM",
+   "SWING",
+   "SHEPHERD"
+  ],
+  "groups": [
+   {
+    "words": [
+     "CASK",
+     "CYLINDER",
+     "DRUM",
+     "TANK"
+    ],
+    "name": "BARREL-SHAPED CONTAINER",
+    "level": 0
+   },
+   {
+    "words": [
+     "PILOT",
+     "SHEPHERD",
+     "STEER",
+     "USHER"
+    ],
+    "name": "GUIDE",
+    "level": 1
+   },
+   {
+    "words": [
+     "COWBOY",
+     "JET",
+     "RAM",
+     "RAVEN"
+    ],
+    "name": "N.F.L. TEAM MEMBER",
+    "level": 2
+   },
+   {
+    "words": [
+     "GOLFER",
+     "PENDULUM",
+     "SALOON DOORS",
+     "SWING"
+    ],
+    "name": "THINGS THAT SWING",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 547,
+  "date": "2024-11-11",
+  "words": [
+   "CRUNCH",
+   "SUBSTANCE",
+   "DEMI",
+   "SUE",
+   "BIG",
+   "THRUST",
+   "SPORTS",
+   "PUSH-UP",
+   "MARS",
+   "MEAT",
+   "EARLY",
+   "PAYDAY",
+   "CORE",
+   "DOVE",
+   "LADY",
+   "WIRELESS"
+  ],
+  "groups": [
+   {
+    "words": [
+     "CRUNCH",
+     "DOVE",
+     "MARS",
+     "PAYDAY"
+    ],
+    "name": "CANDY BARS",
+    "level": 0
+   },
+   {
+    "words": [
+     "CORE",
+     "MEAT",
+     "SUBSTANCE",
+     "THRUST"
+    ],
+    "name": "GIST",
+    "level": 1
+   },
+   {
+    "words": [
+     "DEMI",
+     "PUSH-UP",
+     "SPORTS",
+     "WIRELESS"
+    ],
+    "name": "KINDS OF BRAS",
+    "level": 2
+   },
+   {
+    "words": [
+     "BIG",
+     "EARLY",
+     "LADY",
+     "SUE"
+    ],
+    "name": "___ BIRD",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 550,
+  "date": "2024-11-12",
+  "words": [
+   "RAM",
+   "ROBE",
+   "CLOVE",
+   "CRAB",
+   "SWORD",
+   "SPEED",
+   "SCALES",
+   "SPEAR",
+   "BELLYACHE",
+   "BLINDFOLD",
+   "STORAGE",
+   "CARP",
+   "STALK",
+   "GRUMBLE",
+   "RESOLUTION",
+   "FLORET"
+  ],
+  "groups": [
+   {
+    "words": [
+     "BELLYACHE",
+     "CARP",
+     "CRAB",
+     "GRUMBLE"
+    ],
+    "name": "COMPLAIN",
+    "level": 0
+   },
+   {
+    "words": [
+     "CLOVE",
+     "FLORET",
+     "SPEAR",
+     "STALK"
+    ],
+    "name": "VEGETABLE UNITS",
+    "level": 1
+   },
+   {
+    "words": [
+     "RAM",
+     "RESOLUTION",
+     "SPEED",
+     "STORAGE"
+    ],
+    "name": "LAPTOP SPECS",
+    "level": 2
+   },
+   {
+    "words": [
+     "BLINDFOLD",
+     "ROBE",
+     "SCALES",
+     "SWORD"
+    ],
+    "name": "FEATURES OF JUSTICE PERSONIFIED",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 551,
+  "date": "2024-11-13",
+  "words": [
+   "MUSTARD",
+   "WING",
+   "WEDNESDAY",
+   "WORCESTERSHIRE",
+   "COLONEL",
+   "TARTAR",
+   "LEMON",
+   "MINION",
+   "CALCULUS",
+   "CANARY",
+   "ADDITION",
+   "PLAQUE",
+   "EXTENSION",
+   "PHARAOH",
+   "CAVITY",
+   "ANNEX"
+  ],
+  "groups": [
+   {
+    "words": [
+     "CANARY",
+     "LEMON",
+     "MINION",
+     "MUSTARD"
+    ],
+    "name": "THINGS THAT ARE YELLOW",
+    "level": 0
+   },
+   {
+    "words": [
+     "ADDITION",
+     "ANNEX",
+     "EXTENSION",
+     "WING"
+    ],
+    "name": "BUILDING ADD-ONS",
+    "level": 1
+   },
+   {
+    "words": [
+     "CALCULUS",
+     "CAVITY",
+     "PLAQUE",
+     "TARTAR"
+    ],
+    "name": "CONCERNS FOR A DENTIST",
+    "level": 2
+   },
+   {
+    "words": [
+     "COLONEL",
+     "PHARAOH",
+     "WEDNESDAY",
+     "WORCESTERSHIRE"
+    ],
+    "name": "WORDS THAT SEEM LONGER WRITTEN THAN SPOKEN",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 545,
+  "date": "2024-11-14",
+  "words": [
+   "GRAIN",
+   "DRAIN",
+   "TOTAL",
+   "CUBE",
+   "SYRUP",
+   "SHRED",
+   "SIGNATURE",
+   "SAP",
+   "JAM",
+   "TAX",
+   "POWDER",
+   "ROCK",
+   "EMPTY",
+   "GROOVE",
+   "TIP",
+   "EXHAUST"
+  ],
+  "groups": [
+   {
+    "words": [
+     "DRAIN",
+     "EMPTY",
+     "EXHAUST",
+     "SAP"
+    ],
+    "name": "DEPLETE",
+    "level": 0
+   },
+   {
+    "words": [
+     "GROOVE",
+     "JAM",
+     "ROCK",
+     "SHRED"
+    ],
+    "name": "PLAY MUSIC WITH PASSION",
+    "level": 1
+   },
+   {
+    "words": [
+     "SIGNATURE",
+     "TAX",
+     "TIP",
+     "TOTAL"
+    ],
+    "name": "WORDS ON A RESTAURANT RECEIPT",
+    "level": 2
+   },
+   {
+    "words": [
+     "CUBE",
+     "GRAIN",
+     "POWDER",
+     "SYRUP"
+    ],
+    "name": "FORMS OF SUGAR",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 561,
+  "date": "2024-11-15",
+  "words": [
+   "PIPE",
+   "PHRASE",
+   "JUG",
+   "PASSAGE",
+   "LEAK",
+   "LETTER",
+   "WASTE",
+   "WHISTLE",
+   "NICK",
+   "CRACK",
+   "RECORDER",
+   "WORD",
+   "HOLE",
+   "SANDS",
+   "SENTENCE",
+   "PUNCTURE"
+  ],
+  "groups": [
+   {
+    "words": [
+     "CRACK",
+     "HOLE",
+     "LEAK",
+     "PUNCTURE"
+    ],
+    "name": "FISSURE",
+    "level": 0
+   },
+   {
+    "words": [
+     "LETTER",
+     "PHRASE",
+     "SENTENCE",
+     "WORD"
+    ],
+    "name": "ELEMENTS OF WRITING",
+    "level": 1
+   },
+   {
+    "words": [
+     "JUG",
+     "PIPE",
+     "RECORDER",
+     "WHISTLE"
+    ],
+    "name": "INSTRUMENTS YOU BLOW INTO",
+    "level": 2
+   },
+   {
+    "words": [
+     "NICK",
+     "PASSAGE",
+     "SANDS",
+     "WASTE"
+    ],
+    "name": "___ OF TIME",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 557,
+  "date": "2024-11-16",
+  "words": [
+   "ROGUE",
+   "CAP",
+   "GATOR",
+   "SEAL",
+   "BERET",
+   "WOLVERINE",
+   "COMMANDO",
+   "FIGURE",
+   "VOLUNTEER",
+   "DERBY",
+   "PILLBOX",
+   "COVER",
+   "PLUG",
+   "SNAPBACK",
+   "SOONER",
+   "BANANAS"
+  ],
+  "groups": [
+   {
+    "words": [
+     "CAP",
+     "COVER",
+     "PLUG",
+     "SEAL"
+    ],
+    "name": "THINGS THAT PREVENT LEAKS",
+    "level": 0
+   },
+   {
+    "words": [
+     "BERET",
+     "DERBY",
+     "PILLBOX",
+     "SNAPBACK"
+    ],
+    "name": "KINDS OF HATS",
+    "level": 1
+   },
+   {
+    "words": [
+     "GATOR",
+     "SOONER",
+     "VOLUNTEER",
+     "WOLVERINE"
+    ],
+    "name": "COLLEGE FOOTBALL TEAM MEMBERS",
+    "level": 2
+   },
+   {
+    "words": [
+     "BANANAS",
+     "COMMANDO",
+     "FIGURE",
+     "ROGUE"
+    ],
+    "name": "GO ___",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 554,
+  "date": "2024-11-17",
+  "words": [
+   "APOLOGY",
+   "QUOTATION",
+   "ASSOCIATION",
+   "CONTRACTION",
+   "CLINGY",
+   "UNION",
+   "POSSESSIVE",
+   "SLINKY",
+   "PROPOSAL",
+   "SNUG",
+   "PRAYER",
+   "LEAGUE",
+   "GUILD",
+   "DUBBING",
+   "FOOT",
+   "SLEEK"
+  ],
+  "groups": [
+   {
+    "words": [
+     "ASSOCIATION",
+     "GUILD",
+     "LEAGUE",
+     "UNION"
+    ],
+    "name": "ALLIANCE",
+    "level": 0
+   },
+   {
+    "words": [
+     "CLINGY",
+     "SLEEK",
+     "SLINKY",
+     "SNUG"
+    ],
+    "name": "CLOSE-FITTING",
+    "level": 1
+   },
+   {
+    "words": [
+     "APOLOGY",
+     "DUBBING",
+     "PRAYER",
+     "PROPOSAL"
+    ],
+    "name": "OCCASIONS WHEN ONE MIGHT KNEEL",
+    "level": 2
+   },
+   {
+    "words": [
+     "CONTRACTION",
+     "FOOT",
+     "POSSESSIVE",
+     "QUOTATION"
+    ],
+    "name": "WHAT AN APOSTROPHE MIGHT INDICATE",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 555,
+  "date": "2024-11-18",
+  "words": [
+   "DOMINO",
+   "DRYER",
+   "FIDDLER",
+   "LADYBUG",
+   "INTERNET",
+   "HORSESHOE",
+   "SPIDER",
+   "RENT",
+   "HAIRSPRAY",
+   "GAS",
+   "DALMATIAN",
+   "COMB",
+   "PHONE",
+   "HERMIT",
+   "ROLLERS",
+   "DIE"
+  ],
+  "groups": [
+   {
+    "words": [
+     "COMB",
+     "DRYER",
+     "HAIRSPRAY",
+     "ROLLERS"
+    ],
+    "name": "USED IN HAIR CARE",
+    "level": 0
+   },
+   {
+    "words": [
+     "GAS",
+     "INTERNET",
+     "PHONE",
+     "RENT"
+    ],
+    "name": "MONTHLY EXPENSES",
+    "level": 1
+   },
+   {
+    "words": [
+     "DALMATIAN",
+     "DIE",
+     "DOMINO",
+     "LADYBUG"
+    ],
+    "name": "THINGS WITH SPOTS",
+    "level": 2
+   },
+   {
+    "words": [
+     "FIDDLER",
+     "HERMIT",
+     "HORSESHOE",
+     "SPIDER"
+    ],
+    "name": "___ CRAB",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 552,
+  "date": "2024-11-19",
+  "words": [
+   "FOCUS",
+   "FACE",
+   "FIELD",
+   "JEOPARDY",
+   "RIBBON",
+   "PIN",
+   "WHEEL",
+   "EAR",
+   "PASSWORD",
+   "AGENT",
+   "CONCENTRATION",
+   "FINGERPRINT",
+   "STANDARD",
+   "ELBOW",
+   "SPECIALTY",
+   "DRIBBLE"
+  ],
+  "groups": [
+   {
+    "words": [
+     "CONCENTRATION",
+     "FIELD",
+     "FOCUS",
+     "SPECIALTY"
+    ],
+    "name": "AREA OF EXPERTISE",
+    "level": 0
+   },
+   {
+    "words": [
+     "FACE",
+     "FINGERPRINT",
+     "PASSWORD",
+     "PIN"
+    ],
+    "name": "WAYS TO UNLOCK A DEVICE",
+    "level": 1
+   },
+   {
+    "words": [
+     "EAR",
+     "ELBOW",
+     "RIBBON",
+     "WHEEL"
+    ],
+    "name": "PASTA SHAPES",
+    "level": 2
+   },
+   {
+    "words": [
+     "AGENT",
+     "DRIBBLE",
+     "JEOPARDY",
+     "STANDARD"
+    ],
+    "name": "DOUBLE ___",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "id": 553,
+  "date": "2024-11-20",
+  "words": [
+   "PLAY",
+   "BAY",
+   "STIR",
+   "CHAIN",
+   "TREE",
+   "STREAM",
+   "BARK",
+   "RUN",
+   "HOWL",
+   "GARNISH",
+   "AIR",
+   "PYRAMID",
+   "MUDDLE",
+   "LADDER",
+   "SNARL",
+   "STRAIN"
+  ],
+  "groups": [
+   {
+    "words": [
+     "BARK",
+     "BAY",
+     "HOWL",
+     "SNARL"
+    ],
+    "name": "SOUND LIKE A DOG",
+    "level": 0
+   },
+   {
+    "words": [
+     "AIR",
+     "PLAY",
+     "RUN",
+     "STREAM"
+    ],
+    "name": "BROADCAST, AS ONLINE MEDIA",
+    "level": 1
+   },
+   {
+    "words": [
+     "GARNISH",
+     "MUDDLE",
+     "STIR",
+     "STRAIN"
+    ],
+    "name": "COCKTAIL-MAKING VERBS",
+    "level": 2
+   },
+   {
+    "words": [
+     "CHAIN",
+     "LADDER",
+     "PYRAMID",
+     "TREE"
+    ],
+    "name": "ORGANIZATIONAL STRUCTURES, METAPHORICALLY",
+    "level": 3
+   }
+  ]
+ }
+]

@@ -1,0 +1,879 @@
+{
+ "run": "baseline_contextual_greedy",
+ "config": {
+  "scorer": "contextual",
+  "search": "greedy",
+  "policy": "next_best_no_one_away",
+  "n_orders": 1
+ },
+ "split": "val",
+ "summary": {
+  "solve_rate": 0.02,
+  "group_acc_by_level": [
+   0.16,
+   0.14,
+   0.1,
+   0.02
+  ],
+  "avg_mistakes": 3.92,
+  "partition_solve_rate": 0.02,
+  "partition_acc_by_level": [
+   0.12,
+   0.14,
+   0.08,
+   0.06
+  ]
+ },
+ "per_puzzle": [
+  {
+   "id": 510,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 482,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 509,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 516,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 513,
+   "won": false,
+   "groups_correct": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    1,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 512,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 514,
+   "won": false,
+   "groups_correct": [
+    0,
+    1,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 515,
+   "won": true,
+   "groups_correct": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "mistakes": 0,
+   "partition_correct": [
+    1,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "id": 511,
+   "won": false,
+   "groups_correct": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 520,
+   "won": false,
+   "groups_correct": [
+    0,
+    1,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 521,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    1,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "id": 522,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 517,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 519,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 518,
+   "won": false,
+   "groups_correct": [
+    1,
+    0,
+    1,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    1,
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "id": 525,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 524,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 527,
+   "won": false,
+   "groups_correct": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 528,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 530,
+   "won": false,
+   "groups_correct": [
+    0,
+    1,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 529,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 505,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 526,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 531,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 535,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    1,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 534,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 537,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 532,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 536,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    1,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 523,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 533,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 542,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 538,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 539,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 544,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 540,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 541,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 543,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 546,
+   "won": false,
+   "groups_correct": [
+    1,
+    0,
+    1,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 548,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 547,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 550,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 551,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 545,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "id": 561,
+   "won": false,
+   "groups_correct": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    1,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 557,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 554,
+   "won": false,
+   "groups_correct": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    1,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 555,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 552,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 553,
+   "won": false,
+   "groups_correct": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "mistakes": 4,
+   "partition_correct": [
+    0,
+    0,
+    0,
+    1
+   ]
+  }
+ ]
+}
